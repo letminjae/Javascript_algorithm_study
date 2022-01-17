@@ -9,4 +9,3 @@ function solution(s) {
         return false
     }
 }
-
